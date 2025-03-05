@@ -9,13 +9,13 @@ This repository contains research analyzing **performance metrics in behavioral 
 - Examines **key performance indicators** in behavioral health crisis facilities.  
 - Analyzes **patient flow, staff response times, and safety measures**.  
 - Explores **data-driven methods for improving facility efficiency** and discusses **limitations of current evaluation models**.  
-📂 **File:** [`Paper_1.pdf`](./Paper_1.pdf)  
+📂 **File:** [`behavioral_health_metrics.pdf`](./behavioral_health_metrics.pdf)  
 
 ### 🧠 MindCheck: A Systems Review of a Digital Mental Health Tool  
 - Provides a **systems-level review** of **MindCheck**, a digital mental health assessment platform.  
 - Examines **architecture, user experience, clinical effectiveness, and accessibility**.  
 - Identifies **potential areas for improvement in security, usability, and integration with healthcare systems**.  
-📂 **File:** [`project_2.pdf`](./project_2.pdf)  
+📂 **File:** [`mindcheck_systems_review.pdf`](./mindcheck_systems_review.pdf)  
 
 ## 📌 Repository Contents  
 ✔ **Healthcare Process Improvement & Facility Performance Metrics**  
